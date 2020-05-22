@@ -1,4 +1,4 @@
-package code.test;
+package code.test.hash;
 
 import java.util.Arrays;
 
